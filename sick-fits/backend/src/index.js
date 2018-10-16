@@ -5,7 +5,7 @@ const db = require('./db');
 const server = createServer();
 
 /*
-to do:
+to do:::
     use express middleware to handle cookies
     use express middleware to populate current user*/
 
