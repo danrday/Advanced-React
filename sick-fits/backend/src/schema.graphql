@@ -3,5 +3,5 @@
 }
 
 type Query {
-    hi: String
+    hiii: String
 }
